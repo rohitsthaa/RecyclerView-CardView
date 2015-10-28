@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # RecyclerView & CardView
 This is sample application that uses RecyclerView & CardView to show contacts on the list 
 
