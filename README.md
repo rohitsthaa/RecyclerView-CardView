@@ -1,2 +1,8 @@
-# CustomListView
-This is a simple application that shows the use of custom Adapter for ListView and changing the layout of specific item on ListView
+# RecyclerView & CardView
+This is sample application that uses RecyclerView & CardView to show contacts on the list 
+
+![Screenshot](https://github.com/rohitsthaa/RecyclerView-CardView/blob/master/device-2015-10-28-004622.png)
+
+
+
+
